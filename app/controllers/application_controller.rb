@@ -4,5 +4,4 @@ class ApplicationController < Sinatra::Base
     set :public_folder, 'public'
     set :views, 'app/views'
   end
-
-end
+#this file should contain my gets routes ( what i leraned tuesday with Sinatra )
